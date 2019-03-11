@@ -1,0 +1,137 @@
+MacBook-Pro-de-Anita:L0 anita$ history
+    1  defaults write
+    2  com.apple.dashboard devmode
+    3  defaults write
+    4  com.apple.dashboard devmode
+    5  YES && killall Dock
+    6  defaults write com.apple.dashboard devmode YES
+    7  defaults write com.apple.dashboard devmode YES && killall Dock
+    8  com.apple.dashboard devmode YES
+    9  defaults com.apple.dashboard devmode YES
+   10  defaults write com.apple.dashboard devmode YES
+   11  killall Dock
+   12  defaults write com.apple.dashboard devmode YES
+   13   killall Dock
+   14  install SymPy
+   15  python get-pip.py
+   16  curl -0 https://bootstrap.pypa.io/get-pip.py
+   17  python3 get-pip.py
+   18  python get-pip.py
+   19  curl -0 https://bootstrap.pypa.io/get-pip.py
+   20  python get-pip.py
+   21  python3 get-pip.py
+   22  get-pip.py
+   23  python3 -mpip install matplotlib
+   24  pip install random
+   25  python -mpip install -U pip
+   26  python -mpip install -U matplotlib
+   27  brew install libpng freetype pkg-config
+   28  port install libpng freetype pkgconfig
+   29  python -mpip install
+   30  python -mpip install .
+   31  python -mpip install .
+   32  pip install pip
+   33  curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+   34  python get-pip.py
+   35  --user
+   36  python get-pip.py --no-index --find-links=/local/copies
+   37  sudo easy_install nose
+   38  sudo easy_install tornado
+   39  sudo -H pip install --ignore-installed matplotlib
+   40  curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+   41  ?python get-pip.py
+   42  curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+   43  python get-pip.py
+   44  python get-pip.py --no-index --find-links=/local/copies
+   45  python get-pip.py --user
+   46  python get-pip.py --proxy="http://[user:passwd@]proxy.server:port"
+   47  pip install -U pip
+   48  pip install numpy matplotlib scipy sklearn hmmlearn simplejson eyed3 pydub 
+   49  $ pip install --upgrade matplotlib
+   50  pip install --upgrade matplotlib
+   51   python -c 'import matplotlib; print matplotlib.__version__, matplotlib.__file__'
+   52  python -mpip install -U pip
+   53  python -mpip install -U matplotlib
+   54  xcode-select --install
+   55  brew install libpng freetype pkg-config
+   56  port install libpng freetype pkgconfig
+   57  python -mpip install .
+   58  python -mpip install
+   59  brew install libpng freetype pkg-config
+   60  python -mpip install
+   61  f26fba7fc68994ab2805d77e0695417f9377a00d36ba4248b5d0f1e5adb08d24
+   62  python -mpip install -U pip
+   63  pip install nose
+   64  easy_install nose
+   65  easy_install tornado
+   66  pip install nose
+   67  easy_install nose
+   68   pip show matplotlib
+   69  pip install --upgrade matplotlib
+   70  matplotlib
+   71  import pylab
+   72  python -mpip install -U pip
+   73  pip install nose
+   74  python setup.py install
+   75  easy_install nose
+   76  python setup.py install
+   77  pip install nose
+   78  easy_install nose
+   79  curl -O http://python-distribute.org/distribute_setup.py
+   80  sudo python3 distribute_setup.py
+   81  curl -O https://raw.github.com/pypa/pip/master/contrib/get-pip.py
+   82  sudo python3 get-pip.py
+   83  export PATH=/Library/Frameworks/Python.framework/Versions/3.3/bin:$PATH
+   84  sudo pip install tornado
+   85  pip --version
+   86  export PATH=/Library/Frameworks/Python.framework/Versions/3.3/bin:$PATH
+   87  PATH=/Library/Frameworks/Python.framework/Versions/3.3/bin:$PATH
+   88  .bash_profile
+   89  export PATH=/Library/Frameworks/Python.framework/Versions/3.3/bin:$PATH.bash_profile
+   90  sudo python3 get-pip.py
+   91  pip --version
+   92  sudo pip install tornado
+   93  python3 get-pip.py
+   94  curl -O https://bootstrap.pypa.io/get-pip.py
+   95  python3 get-pip.py
+   96  pip install matplotlib
+   97  sudo apt-get install python-matplotlib
+   98  sudo apt-get install python-matplotlib
+   99  pip uninstall matplotlib
+  100  pip uninstall matplotlibpython -m pip install --upgrade pip
+  101  python -m pip install --upgrade pip
+  102  pip install matplotlib
+  103  ~/Python/3.6/site-packages/
+  104  ~/Python/2.7/site-packages/
+  105  pip install tornado
+  106  import matplotlib.pyplot as pyplot
+  107  pip install numpy
+  108  easy_install pip
+  109  pip install numpy
+  110  brew install pkg-config
+  111  pip install matplotlib
+  112  /Users/anita/anaconda3/bin/jupyter_mac.command ; exit;
+  113  /Users/anita/anaconda3/bin/jupyter_mac.command ; exit;
+  114  grbgetkey b4a6c7c8-d9f0-11e8-9829-02e454ff9c50
+  115  grbgetkey b4a6c7c8-d9f0-11e8-9829-02e454ff9c50
+  116  grbgetkey b4a6c7c8-d9f0-11e8-9829-02e454ff9c50
+  117  grbgetkey
+  118  grbgetkey b4a6c7c8-d9f0-11e8-9829-02e454ff9c50
+  119  py-V
+  120  python -V
+  121  python3 -V
+  122  python setup.py install
+  123  cd Desktop/
+  124  git clone https://github.com/IIC2115/Syllabus
+  125  Cloning into 'Syllabus'...
+  126  git add *
+  127  pwd
+  128  git clone https://github.com/asnunez1/L0.git
+  129  git add *
+  130  cd L0
+  131  pwd
+  132  git add *
+  133  git commit -m "github"
+  134  git push
+  135  git pull
+  136  history
